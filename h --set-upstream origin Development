@@ -1,0 +1,17 @@
+[33mcommit 5d3ab48619718f33294ee8aa85b9696e4e652c1e[m[33m ([m[1;36mHEAD -> [m[1;32mDevelopment[m[33m, [m[1;31morigin/Development[m[33m)[m
+Author: Arpit <arpitdubey907@gmail.com>
+Date:   Thu Mar 24 23:16:24 2022 +0530
+
+    Development branch commit
+
+[33mcommit 60d580605c87f048b80b3192b9cdbcbcce84a3d1[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Arpit <arpitdubey907@gmail.com>
+Date:   Thu Mar 24 23:09:42 2022 +0530
+
+    test commit
+
+[33mcommit 2021bef682c5494c23b6d8536c94008e7d841997[m
+Author: Arpit <arpitdubey907@gmail.com>
+Date:   Thu Mar 24 22:52:00 2022 +0530
+
+    Created basic MVVM structure and made reusable components
