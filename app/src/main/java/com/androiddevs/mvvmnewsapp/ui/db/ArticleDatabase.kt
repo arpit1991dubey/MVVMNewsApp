@@ -32,3 +32,5 @@ abstract class ArticleDatabase :RoomDatabase(){
 }
 
 //this is  a sample comment to learn git , LOL
+
+//this a new commit in development branch
