@@ -30,3 +30,5 @@ abstract class ArticleDatabase :RoomDatabase(){
             ).build()
     }
 }
+
+//this is  a sample comment to learn git , LOL
