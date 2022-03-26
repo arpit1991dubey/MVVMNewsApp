@@ -13,9 +13,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41a56033-8f27-4ab2-b0b4-7335b1e16ba8" name="Default Changelist" comment="ktejy5">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/Article.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/models/Article.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/NewsResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/models/NewsResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/Source.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/models/Source.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/api/NewsAPI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/api/NewsAPI.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/db/ArticleDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/db/ArticleDao.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/db/ArticleDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/db/ArticleDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/db/Converters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/db/Converters.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +45,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Development" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="26hVMzqZLiVMFHWL6F3BEJlrkmi" />
@@ -57,11 +67,12 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TataCliq-Beaute_Android-develop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.androiddevs.mvvmnewsapp.ui.models" />
       <recent name="com.androiddevs.mvvmnewsapp.ui" />
     </key>
   </component>
