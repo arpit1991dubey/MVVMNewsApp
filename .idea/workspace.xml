@@ -15,12 +15,10 @@
     <list default="true" id="41a56033-8f27-4ab2-b0b4-7335b1e16ba8" name="Default Changelist" comment="ktejy5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/NewsActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/UI/fragments/NewsActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/UI/fragments/ArticleFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/UI/fragments/ArticleFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/UI/fragments/BreakingNewsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/UI/fragments/BreakingNewsFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/UI/fragments/SavedNewsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/UI/fragments/SavedNewsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/UI/fragments/NewsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/UI/fragments/NewsViewModel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/UI/fragments/SearchNewsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/UI/fragments/SearchNewsFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_news.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_news.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/repository/NewsRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/androiddevs/mvvmnewsapp/ui/repository/NewsRepository.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +64,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$USER_HOME$/Downloads" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BetterCLiQ" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
